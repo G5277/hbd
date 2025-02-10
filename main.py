@@ -19,4 +19,4 @@ if st.button("🎉 Click Here for Surprise 2!"):
 
 if st.button("🎆 Click Here for Surprise 3!"):
     url2 = " PLEASE VISIT https://docs.google.com/document/d/1AxY7qCmBSha9Ci4YQe4iKUse2mpUHBMuVzBPf43gZaY/edit?usp=drivesdk"
-    webbrowser.open_new_tab(url2)
+    st.write(url2)
