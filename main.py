@@ -11,6 +11,7 @@ if st.button("🎁 Click for a Surprise!"):
     st.balloons()
     st.write("🎶 *Happy Birthday to You!* 🎶")
     st.write("Click below for Surprise 2! 🎁")
+    
 url = "https://g5277.github.io/happy-birthday/"
 
 if st.button("🎉 Click Here for Surprise 2!"):
